@@ -6,7 +6,7 @@
 - 🤓 &nbsp; Estudante de Ciência de Dados desde 2021, focado na transição de carreira, a cada dia busco me aperfeiçoar e conhecer mais sobre o universo da programação. Tenho uma sede por conhecimento e estou sempre buscando uma forma de me aprimorar.
 - 🎓 &nbsp; Estudando Ciência de Dados na <a href="https://univesp.br/"> UNIVESP</a>.
 - 💼 &nbsp; Trabalhando como **Técnico Segurança do Trabalho** na <a href="https://www.prosegur.com.br/grupo-prosegur">PROSEGUR BRASIL</a>
-- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS3, JAVASCRIPT**.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS3 e JAVASCRIPT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
