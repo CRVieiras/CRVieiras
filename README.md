@@ -24,7 +24,10 @@
 <br/>
 
 <a href="https://github.com/CRVieiras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CRVieiras&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CRVieiras&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRVieiras&layout=compact&theme=radical" alt="My Github Stats"/>
+<p align="center">
+</p>
 </a>
 
 <br/>
